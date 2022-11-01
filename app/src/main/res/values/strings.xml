@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Telegram</string>
+
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Grup Baru</string>
+    <string name="menu_3">Kontak</string>
+    <string name="menu_4">Panggilan</string>
+    <string name="menu_5">Pengguna Sekitar</string>
+    <string name="menu_6">Pesan Tersimpan</string>
+    <string name="menu_7">Pengaturan</string>
+    <string name="menu_8">Undangan Teman</string>
+    <string name="menu_9">Fitur Telegram</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anggota1">Anggota 1</string>
+    <string name="anggota2">Anggota 2</string>
+</resources>
